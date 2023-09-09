@@ -1,2 +1,2 @@
 # ShooterPrototype
-Prototype for shooter game while learning Unreal Engine
+Prototype for shmup game while learning Unreal Engine
